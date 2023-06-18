@@ -12,7 +12,7 @@ cd $HOME
 
 # Installing Main Repo Packages
 
-paru -S xmonad xmonad-contrib polybar vim emacs fish terminator dolphin qt5ct papirus-icon-theme lxappearance
+paru -S xmonad xmonad-contrib polybar vim emacs fish terminator dolphin qt5ct papirus-icon-theme lxappearance tlp auto-cpufreq acpi acpid
 
 # Installing AUR Packages
 #
