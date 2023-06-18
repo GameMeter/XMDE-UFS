@@ -1,5 +1,5 @@
 # XMDE-UFS
-XMDE-UpgradedFreshStable (Version 1)
+XMDE-UpgradedFreshStable
 
 XMDE short for XMonad Desktop Enviroment is a station with files containing customization and packages in a simple terminal commands so that i can do something else.
 
