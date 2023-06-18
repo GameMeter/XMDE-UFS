@@ -31,5 +31,7 @@ mv $HOME/XMDE-UFS/ftgc/config.ini $HOME/.config/polybar/
 
 # Enabling Power-Efficient
 
+sudo systemctl enable acpid
 sudo systemctl enable auto-cpufreq
 sudo systemctl start auto-cpufreq
+sudo systemctl start acpid
