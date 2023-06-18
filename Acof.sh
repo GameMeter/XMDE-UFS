@@ -28,3 +28,10 @@ mv $HOME/XMDE-UFS/wallpaper/*.* wallpaper/
 mkdir $HOME/.config
 mkdir $HOME/.config/polybar
 mv $HOME/XMDE-UFS/ftgc/config.ini $HOME/.config/polybar/
+
+# Enabling Power-Efficient
+
+sudo systemctl enable tlp
+sudo systemctl enable auto-cpufreq
+sudo systemctl start tlp
+sudo systemctl start auto-cpufreq
